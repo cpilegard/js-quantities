@@ -105,7 +105,7 @@ SOFTWARE.
     "<dalton>" : [["Da","Dalton","Daltons","dalton","daltons"], 1.660538921e-27, "mass", ["<kilogram>"]],
     "<slug>" : [["slug","slugs"], 14.5939029, "mass", ["<kilogram>"]],
     "<short-ton>" : [["tn","ton"], 907.18474, "mass", ["<kilogram>"]],
-    "<metric-ton>":[["tonne"], 1000, "mass", ["<kilogram>"]],
+    "<metric-ton>":[["t","tonne"], 1000, "mass", ["<kilogram>"]],
     "<carat>" : [["ct","carat","carats"], 0.0002, "mass", ["<kilogram>"]],
     "<pound>" : [["lbs","lb","pound","pounds","#"], 0.45359237, "mass", ["<kilogram>"]],
     "<ounce>" : [["oz","ounce","ounces"], 0.0283495231, "mass", ["<kilogram>"]],
@@ -113,6 +113,7 @@ SOFTWARE.
     "<grain>" : [["grain","grains","gr"], 6.479891e-5, "mass", ["<kilogram>"]],
     "<dram>"  : [["dram","drams","dr"], 0.0017718452, "mass",["<kilogram>"]],
     "<stone>" : [["stone","stones","st"],6.35029318, "mass",["<kilogram>"]],
+    "<hundred-weight>" : [["cwt","hundredweight","hundredweights"],45.359237, "mass",["<kilogram>"]],
 
     /* area */
     "<hectare>":[["hectare"], 10000, "area", ["<meter>","<meter>"]],
